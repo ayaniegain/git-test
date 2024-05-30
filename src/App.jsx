@@ -9,6 +9,9 @@ function App() {
     <h1 className="text-3xl font-bold underline">
     Hello mohit!
   </h1>
+    <h1 className="text-3xl font-bold underline">
+   get a job. 
+  </h1>
     </>
   )
 }
