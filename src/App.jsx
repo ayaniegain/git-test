@@ -12,6 +12,7 @@ function App() {
     Hello mohit
     </h1>
   <Customer/>
+  <h2 className='text-green-500 text-2xl'>  new component</h2>
    
    <Jobportal/>
     </>
