@@ -12,6 +12,8 @@ function App() {
     Hello MAster 
     </h1>
   <Customer/>
+
+  <span className='text-red-400 text-xl'> master component</span>
    
    <Jobportal/>
     </>
