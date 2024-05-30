@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Jobportal from './Jobportal'
+import Customer from './Customer'
 
 function App() {
   const [count, setCount] = useState(0)
